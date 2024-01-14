@@ -1,0 +1,14 @@
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.AssemblyInfoInputs.cache
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.AssemblyInfo.cs
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.csproj.CoreCompileInputs.cache
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\bin\Debug\net7.0\DESAFIOESTACIONAMENTO.exe
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\bin\Debug\net7.0\DESAFIOESTACIONAMENTO.deps.json
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\bin\Debug\net7.0\DESAFIOESTACIONAMENTO.runtimeconfig.json
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\bin\Debug\net7.0\DESAFIOESTACIONAMENTO.dll
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\bin\Debug\net7.0\DESAFIOESTACIONAMENTO.pdb
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.dll
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\refint\DESAFIOESTACIONAMENTO.dll
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.pdb
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\DESAFIOESTACIONAMENTO.genruntimeconfig.cache
+D:\OneDrive - Instituto Presbiteriano Mackenzie\Aulas Extras\DESAFIOESTACIONAMENTO\obj\Debug\net7.0\ref\DESAFIOESTACIONAMENTO.dll
